@@ -15,9 +15,12 @@ Traini8 is a RESTful API application designed to serve as a registry for governm
 - An IDE (Eclipse, IntelliJ IDEA, etc.)
 
 ## Setup Instructions
-1. **Clone the Repository**:
-   git clone https://github.com/masaliswapna/training-center-registry.git
-   cd training-center-registry
+To get started with the Traini8 project, follow these steps:
+## 1: Clone the Repository
+You can clone the project repository to your local machine using the following command:
+```bash
+git clone https://github.com/masaliswapna/Backend_Traini8_Swapna.git
+cd Backend_Traini8_Swapna
 Build the Project:
 mvn clean install
 Run the Application: You can run the application using your IDE or by executing:
