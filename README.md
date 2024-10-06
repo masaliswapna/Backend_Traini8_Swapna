@@ -16,7 +16,7 @@ Traini8 is a RESTful API application designed to serve as a registry for governm
 
 ## Setup Instructions
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/training-center-registry.git
+   git clone https://github.com/masaliswapna/training-center-registry.git
    cd training-center-registry
 Build the Project:
 mvn clean install
